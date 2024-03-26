@@ -80,9 +80,5 @@ If you'd like to join me on this journey of learning and exploration, contributi
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Thank you for stopping by and exploring my Libft project! Happy coding! 😊👨‍💻
