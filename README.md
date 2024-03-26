@@ -1,6 +1,6 @@
 # Libft
 
-![Libft Logo](https://yourimagehost.com/your-libft-logo.png)
+![Libft Logo](c_lib.jpg)
 
 Hey there! Welcome to my Libft project! 🚀 As a student at 42 Berlin, I took on this challenge to delve deep into the world of C programming. Libft isn't just any project; it's my first step towards mastering the language and understanding the inner workings of standard C library functions.
 
